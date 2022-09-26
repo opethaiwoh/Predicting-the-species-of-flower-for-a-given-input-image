@@ -8,7 +8,7 @@ Figure: A sample of five (out of the seventeen total) classes in the Flowers-17 
 
 ## Steps
 
-Read the dataset images and associated labels from the folder structure (Hint: you need to use the two classes in pyimagesearch package)
+Read the dataset images and associated labels from the folder structure
 
 Classify the dataset using Logistic Regression, K-NN and Neural Network (two hidden layers)
 
