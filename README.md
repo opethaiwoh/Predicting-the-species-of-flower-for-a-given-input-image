@@ -14,8 +14,8 @@ Classify the dataset using Logistic Regression, K-NN and Neural Network (two hid
 
 Compared the performances and show the confusion matrices (20% test images and 80% training images)
 
-Performed a K-means clustering in the image dataset and show the optimal number of cluster (Hint: Elbow method)
+Performed a K-means clustering in the image dataset and show the optimal number of cluster
 
-Created a new test dataset of 10 images (download any flower images from internet or any other resources)
+Created a new test dataset of 10 images
 
 Predicted the flower type by using the above 3 classifiers.
