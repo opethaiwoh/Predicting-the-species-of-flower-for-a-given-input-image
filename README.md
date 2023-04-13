@@ -8,14 +8,12 @@ Figure: A sample of five (out of the seventeen total) classes in the Flowers-17 
 
 ## Steps
 
-Read the dataset images and associated labels from the folder structure
+Read the dataset images and associated labels from the folder structure.
 
-Classify the dataset using Logistic Regression, K-NN and Neural Network (two hidden layers)
+Classified the dataset using logistic regression, K-NN, and neural networks (two hidden layers).
 
-Compared the performances and show the confusion matrices (20% test images and 80% training images)
+Compared the performances and showed the confusion matrices (20% test images and 80% training images).
 
-Performed a K-means clustering in the image dataset and show the optimal number of cluster
+Performed a K-means clustering in the image dataset and showed the optimal number of clusters.
 
-Created a new test dataset of 10 images
-
-Predicted the flower type by using the above 3 classifiers.
+I created a new test dataset of 10 images. We predicted the flower type by using the three classifiers above.
